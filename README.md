@@ -27,7 +27,7 @@ I am a final year student studying Computer Science at the National University o
 I am currently pursuing a specialization in Networking and Distributed Systems, and have a deep passion for Software Engineering and Artificial Intelligence, specifically in Natural Language Processing. 
 </p>
 <p align="center">
-I am still actively practising to hone my skills and is always open to learning new things.
+I am still actively practising to hone my skills and broaden my horizons.
 </p>
 
 
