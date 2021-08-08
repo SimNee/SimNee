@@ -20,15 +20,26 @@ Here are some ideas to get you started:
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Chatbot%20|%20Computer%20Networks%20%20Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 
+<div align="center" >	
+
+[![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/simnee)](https://www.linkedin.com/in/simnee/)
+[![Website Badge](https://img.shields.io/badge/-website-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://simnee.github.io/)](https://simnee.github.io/)
+[![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:simneechua@gmail.com)](mailto:simneechua@gmail.com)
+
+</div>
+
 <p align="center">
 I am a final year student studying Computer Science at the National University of Singapore. 
 </p>
+<p align="center">🎓</p>
 <p align="center">
 I am currently pursuing a specialization in Networking and Distributed Systems, and have a deep passion for Software Engineering and Artificial Intelligence, specifically in Natural Language Processing. 
 </p>
+<p align="center">🤖</p>
 <p align="center">
 I am still actively practising to hone my skills and broaden my horizons.
 </p>
+<p align="center">🌈</p>
 
 
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=simnee&label=Sim%20Nee's%20Profile%20Views%20&color=dc143c&style=plastic" alt="simnee" /> </p> -->
@@ -141,7 +152,7 @@ I am still actively practising to hone my skills and broaden my horizons.
 </details>
 
 
-## 🙋‍♀️ Let's Connect
+## 🧸 Let's Connect
 <p align="center">
   <a href="https://simnee.github.io/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
 	<a href="mailto:simneechua@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
