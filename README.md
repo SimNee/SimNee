@@ -44,11 +44,11 @@ I am still actively practising to hone my skills and broaden my horizons.
 
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=simnee&label=Sim%20Nee's%20Profile%20Views%20&color=dc143c&style=plastic" alt="simnee" /> </p> -->
 
-## 🔥 Streak Stats
+<!-- ## 🔥 Streak Stats
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=simnee&theme=algolia" alt="SimNee" /></p>
-
-## 🛠️ My Skills
-
+ -->
+<!-- ## 🛠️ My Skills -->
+<!-- 
 ### 👉 Programming languages
 
 <p align="left"> 
@@ -125,7 +125,7 @@ I am still actively practising to hone my skills and broaden my horizons.
  &emsp; 
 </p>
 
-<br/>
+<br/> -->
 
 ## 📊 Github Stats (Expand to View) 
 
