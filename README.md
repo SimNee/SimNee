@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <div align="center" >	
 
 [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/simnee)](https://www.linkedin.com/in/simnee/)
-[![Website Badge](https://img.shields.io/badge/-website-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://simnee.gatsbyjs.io/)](https://simnee.github.io/)
+[![Website Badge](https://img.shields.io/badge/-website-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://simnee.gatsbyjs.io/)](https://simnee.gatsbyjs.io/)
 [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:simneechua@gmail.com)](mailto:simneechua@gmail.com)
 
 </div>
